@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.margin-title{
+    margin-top: 80px;
+    
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    
+    
+    
+
+
+    
+}
+
+.size-photo{
+    width: 200px;
+    
+}
+
+.p1-size{
+    font-size: small;
+}
+
+.color-euro{
+    color: red;
+}
+
+.text-d{
+    text-decoration: line-through;
+}
+
+.margin-photo{
+    margin-right: 20px;
+    margin-top: 50px;
+}
