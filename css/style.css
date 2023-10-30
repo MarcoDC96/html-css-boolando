@@ -13,19 +13,17 @@
     
 }
 
+.text-font-title{
+    font-family: 'Prompt', sans-serif;
+}
+
 .flex{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     margin-left: 300px;
     margin-right: 300px;
-    margin-bottom: 100px;
-    
-    
-    
-
-
-    
+    margin-bottom: 100px;    
 }
 
 .size-photo{
